@@ -1,4 +1,4 @@
-authorised: ["mato"]
+authorised: ["Solo5"]
 counter: UINT0
 name: "solo5-kernel-virtio"
 version: UINT0

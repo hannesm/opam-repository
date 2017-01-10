@@ -1,4 +1,4 @@
-authorised: ["gasche"]
+authorised: ["ocsigen"]
 counter: UINT0
 name: "macaque"
 version: UINT0

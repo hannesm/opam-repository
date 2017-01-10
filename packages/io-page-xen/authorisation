@@ -1,4 +1,4 @@
-authorised: ["avsm"]
+authorised: ["mirage"]
 counter: UINT0
 name: "io-page-xen"
 version: UINT0

@@ -1,4 +1,4 @@
-authorised: ["mato"]
+authorised: ["mirage"]
 counter: UINT0
 name: "ocaml-freestanding"
 version: UINT0

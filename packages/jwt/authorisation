@@ -1,4 +1,4 @@
-authorised: ["dannywillems"]
+authorised: ["besport"]
 counter: UINT0
 name: "jwt"
 version: UINT0

@@ -1,4 +1,4 @@
-authorised: ["venator"]
+authorised: ["OCamlPro"]
 counter: UINT0
 name: "opam2web"
 version: UINT0

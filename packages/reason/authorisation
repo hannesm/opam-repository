@@ -1,4 +1,4 @@
-authorised: ["yunxing"]
+authorised: ["facebook"]
 counter: UINT0
 name: "reason"
 version: UINT0

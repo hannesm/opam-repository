@@ -1,4 +1,4 @@
-authorised: ["rbardou"]
+authorised: ["cryptosense"]
 counter: UINT0
 name: "procord"
 version: UINT0

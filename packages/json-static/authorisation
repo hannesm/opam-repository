@@ -1,4 +1,4 @@
-
+authorised: ["mjambon"]
 counter: UINT0
 name: "json-static"
 version: UINT0

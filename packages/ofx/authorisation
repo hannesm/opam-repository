@@ -1,4 +1,4 @@
-
+authorised: ["mvalle"]
 counter: UINT0
 name: "ofx"
 version: UINT0

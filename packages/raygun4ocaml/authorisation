@@ -1,4 +1,4 @@
-authorised: ["toots"]
+authorised: ["lidcore"]
 counter: UINT0
 name: "raygun4ocaml"
 version: UINT0

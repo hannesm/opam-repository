@@ -1,4 +1,4 @@
-
+authorised: ["herd"]
 counter: UINT0
 name: "herdtools7"
 version: UINT0

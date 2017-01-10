@@ -1,4 +1,4 @@
-
+authorised: ["OCamlPro"]
 counter: UINT0
 name: "tryocaml"
 version: UINT0

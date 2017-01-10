@@ -1,4 +1,4 @@
-
+authorised: ["orbitz"]
 counter: UINT0
 name: "opass"
 version: UINT0

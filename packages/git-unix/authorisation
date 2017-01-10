@@ -1,4 +1,4 @@
-authorised: ["samoht"]
+authorised: ["mirage"]
 counter: UINT0
 name: "git-unix"
 version: UINT0

@@ -1,4 +1,4 @@
-authorised: ["djs55"]
+authorised: ["mirage"]
 counter: UINT0
 name: "qcow"
 version: UINT0

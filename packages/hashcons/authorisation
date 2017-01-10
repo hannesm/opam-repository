@@ -1,4 +1,4 @@
-authorised: ["dsheets"]
+authorised: ["backtracking"]
 counter: UINT0
 name: "hashcons"
 version: UINT0

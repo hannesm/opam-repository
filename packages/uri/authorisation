@@ -1,4 +1,4 @@
-authorised: ["dsheets"]
+authorised: ["mirage"]
 counter: UINT0
 name: "uri"
 version: UINT0

@@ -1,4 +1,4 @@
-authorised: ["gabelevi"]
+authorised: ["facebook"]
 counter: UINT0
 name: "flowtype"
 version: UINT0

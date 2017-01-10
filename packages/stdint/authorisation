@@ -1,4 +1,4 @@
-authorised: ["mwweissmann"]
+authorised: ["andrenth"]
 counter: UINT0
 name: "stdint"
 version: UINT0

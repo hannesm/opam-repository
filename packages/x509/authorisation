@@ -1,4 +1,4 @@
-authorised: ["hannesm" "pqwy"]
+authorised: ["mirleft"]
 counter: UINT0
 name: "x509"
 version: UINT0

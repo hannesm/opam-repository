@@ -1,4 +1,4 @@
-authorised: ["mlasson"]
+authorised: ["LexiFi"]
 counter: UINT0
 name: "landmarks"
 version: UINT0

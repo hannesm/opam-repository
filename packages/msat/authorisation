@@ -1,4 +1,4 @@
-authorised: ["Gbury" "c-cube"]
+authorised: ["gbury"]
 counter: UINT0
 name: "msat"
 version: UINT0

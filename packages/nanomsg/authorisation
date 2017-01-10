@@ -1,4 +1,4 @@
-authorised: ["vbmithr"]
+authorised: ["rgrinberg"]
 counter: UINT0
 name: "nanomsg"
 version: UINT0

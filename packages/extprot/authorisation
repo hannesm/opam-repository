@@ -1,4 +1,4 @@
-authorised: ["ygrek"]
+authorised: ["mfp"]
 counter: UINT0
 name: "extprot"
 version: UINT0

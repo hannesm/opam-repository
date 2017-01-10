@@ -1,4 +1,4 @@
-authorised: ["mirage"]
+authorised: ["MagnusS"]
 counter: UINT0
 name: "mirage-vnetif"
 version: UINT0

@@ -1,4 +1,4 @@
-
+authorised: ["dmbaturin"]
 counter: UINT0
 name: "cfgen"
 version: UINT0

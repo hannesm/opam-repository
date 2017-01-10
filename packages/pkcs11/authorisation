@@ -1,4 +1,4 @@
-authorised: ["emillon"]
+authorised: ["cryptosense"]
 counter: UINT0
 name: "pkcs11"
 version: UINT0

@@ -1,4 +1,4 @@
-authorised: ["ivg"]
+authorised: ["BinaryAnalysisPlatform"]
 counter: UINT0
 name: "bap-future"
 version: UINT0

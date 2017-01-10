@@ -1,4 +1,4 @@
-authorised: ["maximedenes"]
+authorised: ["coq"]
 counter: UINT0
 name: "coqide"
 version: UINT0

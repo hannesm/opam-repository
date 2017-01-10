@@ -1,4 +1,4 @@
-authorised: ["c-cube"]
+authorised: ["nunchaku-inria"]
 counter: UINT0
 name: "nunchaku"
 version: UINT0

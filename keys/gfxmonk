@@ -1,5 +1,0 @@
-accounts: [["github" "gfxmonk"] ["email" "tim@gfxmonk.net"]]
-counter: UINT0
-key: "NONE"
-name: "gfxmonk"
-version: UINT0

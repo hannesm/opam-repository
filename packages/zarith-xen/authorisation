@@ -1,4 +1,4 @@
-authorised: ["mirage"]
+authorised: ["hannesm"]
 counter: UINT0
 name: "zarith-xen"
 version: UINT0

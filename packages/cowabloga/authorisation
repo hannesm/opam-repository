@@ -1,4 +1,4 @@
-authorised: ["mor1"]
+authorised: ["mirage"]
 counter: UINT0
 name: "cowabloga"
 version: UINT0

@@ -1,4 +1,4 @@
-authorised: ["andersfugmann"]
+authorised: ["issuu"]
 counter: UINT0
 name: "zmq"
 version: UINT0

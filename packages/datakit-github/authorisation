@@ -1,4 +1,4 @@
-authorised: ["samoht"]
+authorised: ["docker"]
 counter: UINT0
 name: "datakit-github"
 version: UINT0

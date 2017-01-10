@@ -1,4 +1,4 @@
-authorised: ["samoht"]
+authorised: ["mirage"]
 counter: UINT0
 name: "irmin-chunk"
 version: UINT0

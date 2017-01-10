@@ -1,0 +1,4 @@
+counter: UINT0
+members: ["ihodes" "rleonid" "smondet" "struktured"]
+name: "hammerlab"
+version: UINT0

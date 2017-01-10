@@ -1,4 +1,4 @@
-authorised: ["protz"]
+authorised: ["WebAssembly"]
 counter: UINT0
 name: "wasm"
 version: UINT0

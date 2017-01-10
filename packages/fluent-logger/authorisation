@@ -1,4 +1,4 @@
-authorised: ["komamitsu"]
+authorised: ["fluent"]
 counter: UINT0
 name: "fluent-logger"
 version: UINT0

@@ -1,4 +1,4 @@
-authorised: ["mirage"]
+authorised: ["ruhatch"]
 counter: UINT0
 name: "mirage-btrees"
 version: UINT0

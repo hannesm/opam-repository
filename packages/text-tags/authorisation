@@ -1,4 +1,4 @@
-authorised: ["ivg"]
+authorised: ["BinaryAnalysisPlatform"]
 counter: UINT0
 name: "text-tags"
 version: UINT0

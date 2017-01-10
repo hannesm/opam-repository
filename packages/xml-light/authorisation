@@ -1,4 +1,4 @@
-
+authorised: ["ncannasse"]
 counter: UINT0
 name: "xml-light"
 version: UINT0

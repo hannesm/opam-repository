@@ -1,4 +1,4 @@
-authorised: ["UnixJunkie"]
+authorised: ["coccinelle"]
 counter: UINT0
 name: "coccinelle"
 version: UINT0

@@ -1,4 +1,4 @@
-authorised: ["rleonid"]
+authorised: ["hammerlab"]
 counter: UINT0
 name: "oml"
 version: UINT0

@@ -1,4 +1,4 @@
-authorised: ["dra27"]
+authorised: ["coq"]
 counter: UINT0
 name: "coq-shell"
 version: UINT0

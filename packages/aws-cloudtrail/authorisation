@@ -1,4 +1,4 @@
-authorised: ["seliopou"]
+authorised: ["inhabitedtype"]
 counter: UINT0
 name: "aws-cloudtrail"
 version: UINT0

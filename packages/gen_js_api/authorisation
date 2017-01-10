@@ -1,4 +1,4 @@
-authorised: ["alainfrisch"]
+authorised: ["LexiFi"]
 counter: UINT0
 name: "gen_js_api"
 version: UINT0

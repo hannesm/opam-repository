@@ -1,4 +1,4 @@
-
+authorised: ["camlp5"]
 counter: UINT0
 name: "camlp5"
 version: UINT0

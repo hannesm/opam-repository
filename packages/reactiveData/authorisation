@@ -1,4 +1,4 @@
-authorised: ["hhugo"]
+authorised: ["ocsigen"]
 counter: UINT0
 name: "reactiveData"
 version: UINT0

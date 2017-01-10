@@ -1,4 +1,4 @@
-authorised: ["djs55"]
+authorised: ["xen-org"]
 counter: UINT0
 name: "fd-send-recv"
 version: UINT0

@@ -1,4 +1,4 @@
-
+authorised: ["the-lambda-church"]
 counter: UINT0
 name: "merlin"
 version: UINT0

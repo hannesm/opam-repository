@@ -1,4 +1,4 @@
-authorised: ["toots"]
+authorised: ["savonet"]
 counter: UINT0
 name: "bjack"
 version: UINT0

@@ -1,4 +1,4 @@
-authorised: ["NathanReb"]
+authorised: ["cryptosense"]
 counter: UINT0
 name: "key-parsers"
 version: UINT0

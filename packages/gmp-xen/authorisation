@@ -1,4 +1,4 @@
-authorised: ["mirage"]
+authorised: ["talex5"]
 counter: UINT0
 name: "gmp-xen"
 version: UINT0

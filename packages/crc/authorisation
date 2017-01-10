@@ -1,4 +1,4 @@
-authorised: ["johnelse"]
+authorised: ["xapi-project"]
 counter: UINT0
 name: "crc"
 version: UINT0

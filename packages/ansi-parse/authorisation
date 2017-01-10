@@ -1,4 +1,4 @@
-
+authorised: ["jdjakub"]
 counter: UINT0
 name: "ansi-parse"
 version: UINT0

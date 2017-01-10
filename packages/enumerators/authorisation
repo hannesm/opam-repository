@@ -1,4 +1,4 @@
-authorised: ["bbc2"]
+authorised: ["cryptosense"]
 counter: UINT0
 name: "enumerators"
 version: UINT0

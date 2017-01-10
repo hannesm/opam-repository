@@ -1,4 +1,4 @@
-authorised: ["OCamlPro"]
+authorised: ["lefessan"]
 counter: UINT0
 name: "ocplib-file"
 version: UINT0

@@ -1,4 +1,4 @@
-authorised: ["toolslive"]
+authorised: ["openvstorage"]
 counter: UINT0
 name: "arakoon"
 version: UINT0

@@ -1,4 +1,4 @@
-authorised: ["protz"]
+authorised: ["FStarLang"]
 counter: UINT0
 name: "fstar"
 version: UINT0

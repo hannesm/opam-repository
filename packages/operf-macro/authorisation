@@ -1,4 +1,4 @@
-authorised: ["chambart"]
+authorised: ["OCamlPro"]
 counter: UINT0
 name: "operf-macro"
 version: UINT0

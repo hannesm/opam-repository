@@ -1,4 +1,4 @@
-
+authorised: ["MyLifeLabs"]
 counter: UINT0
 name: "jsondiff"
 version: UINT0

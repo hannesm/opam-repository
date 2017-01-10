@@ -1,4 +1,4 @@
-authorised: ["mirage"]
+authorised: ["sg2342"]
 counter: UINT0
 name: "mirage-block-ccm"
 version: UINT0

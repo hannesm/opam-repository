@@ -1,4 +1,4 @@
-authorised: ["ygrek"]
+authorised: ["didier-wenzek"]
 counter: UINT0
 name: "kafka"
 version: UINT0

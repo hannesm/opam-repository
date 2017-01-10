@@ -1,4 +1,4 @@
-authorised: ["jonludlam"]
+authorised: ["xen-org"]
 counter: UINT0
 name: "libvhd"
 version: UINT0

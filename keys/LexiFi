@@ -1,5 +1,4 @@
-accounts: [["github" "LexiFi"] ["email" "sebastien.briais@lexifi.com"]]
 counter: UINT0
-key: "NONE"
+members: ["alainfrisch" "fantazio" "mlasson"]
 name: "LexiFi"
 version: UINT0

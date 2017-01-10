@@ -1,4 +1,4 @@
-authorised: ["mirage"]
+authorised: ["pqwy"]
 counter: UINT0
 name: "mirage-os-shim"
 version: UINT0
