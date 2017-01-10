@@ -1,0 +1,5 @@
+accounts: [["github" "johnelse"] ["email" "john.else@citrix.com"]]
+counter: UINT0
+key: "NONE"
+name: "johnelse"
+version: UINT0

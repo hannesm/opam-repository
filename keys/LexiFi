@@ -1,0 +1,5 @@
+accounts: [["github" "LexiFi"] ["email" "sebastien.briais@lexifi.com"]]
+counter: UINT0
+key: "NONE"
+name: "LexiFi"
+version: UINT0

@@ -1,0 +1,5 @@
+accounts: [["github" "acieroid"] ["email" "quentin.stievenart@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "acieroid"
+version: UINT0

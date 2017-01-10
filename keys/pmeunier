@@ -1,0 +1,5 @@
+accounts: [["github" "pmeunier"] ["email" "pe@patoline.org"]]
+counter: UINT0
+key: "NONE"
+name: "pmeunier"
+version: UINT0

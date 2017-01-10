@@ -1,0 +1,5 @@
+accounts: [["github" "kkirstein"] ["email" "kayuwe.kirstein@uster.com"]]
+counter: UINT0
+key: "NONE"
+name: "kkirstein"
+version: UINT0

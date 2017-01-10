@@ -1,0 +1,5 @@
+accounts: [["github" "scjung"] ["email" "scjung.hyu@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "scjung"
+version: UINT0

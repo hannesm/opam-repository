@@ -1,0 +1,5 @@
+accounts: [["github" "damiendoligez"] ["email" "damien.doligez@inria.fr"]]
+counter: UINT0
+key: "NONE"
+name: "damiendoligez"
+version: UINT0

@@ -1,0 +1,5 @@
+accounts: [["github" "ppedrot"] ["email" "pierre-marie.pedrot@inria.fr"]]
+counter: UINT0
+key: "NONE"
+name: "ppedrot"
+version: UINT0

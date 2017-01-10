@@ -1,0 +1,5 @@
+accounts: [["github" "tokenrove"] ["email" "julian@cipht.net"]]
+counter: UINT0
+key: "NONE"
+name: "tokenrove"
+version: UINT0

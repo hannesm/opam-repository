@@ -1,0 +1,5 @@
+accounts: [["github" "pymander"] ["email" "earneson@arnesonium.com"]]
+counter: UINT0
+key: "NONE"
+name: "pymander"
+version: UINT0

@@ -1,0 +1,5 @@
+accounts: [["github" "mandel"] ["email" "louis.mandel@lri.fr"]]
+counter: UINT0
+key: "NONE"
+name: "mandel"
+version: UINT0

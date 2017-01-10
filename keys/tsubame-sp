@@ -1,0 +1,5 @@
+accounts: [["github" "tsubame-sp"] ["email" "kenji.sakurai.94@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "tsubame-sp"
+version: UINT0

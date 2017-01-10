@@ -1,0 +1,5 @@
+accounts: [["github" "mlasson"] ["email" "marc.lasson@lexifi.com"]]
+counter: UINT0
+key: "NONE"
+name: "mlasson"
+version: UINT0

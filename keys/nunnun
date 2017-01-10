@@ -1,0 +1,5 @@
+accounts: [["github" "nunnun"] ["email" "hiro@skyblue.me.uk"]]
+counter: UINT0
+key: "NONE"
+name: "nunnun"
+version: UINT0

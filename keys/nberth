@@ -1,0 +1,5 @@
+accounts: [["github" "nberth"] ["email" "nicolas.berthier@inria.fr"]]
+counter: UINT0
+key: "NONE"
+name: "nberth"
+version: UINT0

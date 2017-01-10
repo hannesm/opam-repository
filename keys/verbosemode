@@ -1,0 +1,5 @@
+accounts: [["github" "verbosemode"] ["email" "jochenbartl@mailbox.org"]]
+counter: UINT0
+key: "NONE"
+name: "verbosemode"
+version: UINT0

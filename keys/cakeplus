@@ -1,0 +1,5 @@
+accounts: [["github" "cakeplus"] ["email" "mmouratov@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "cakeplus"
+version: UINT0

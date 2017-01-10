@@ -1,0 +1,5 @@
+accounts: [["github" "soupault"] ["email" "multicolor.mood@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "soupault"
+version: UINT0

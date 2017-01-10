@@ -1,0 +1,5 @@
+accounts: [["github" "struktured"] ["email" "carmelo.piccione@theice.com"]]
+counter: UINT0
+key: "NONE"
+name: "struktured"
+version: UINT0

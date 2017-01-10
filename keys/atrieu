@@ -1,0 +1,5 @@
+accounts: [["github" "atrieu"] ["email" "alix.trieu@ens-rennes.fr"]]
+counter: UINT0
+key: "NONE"
+name: "atrieu"
+version: UINT0

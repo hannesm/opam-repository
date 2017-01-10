@@ -1,0 +1,5 @@
+accounts: [["github" "asmanur"] ["email" "simon.castellan@iuwt.fr"]]
+counter: UINT0
+key: "NONE"
+name: "asmanur"
+version: UINT0

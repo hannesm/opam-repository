@@ -1,0 +1,5 @@
+accounts: [["github" "vmonfort"] ["email" "vincent.monfort@inria.fr"]]
+counter: UINT0
+key: "NONE"
+name: "vmonfort"
+version: UINT0

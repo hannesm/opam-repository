@@ -1,0 +1,5 @@
+accounts: [["github" "chambart"] ["email" "pierre.chambart@ocamlpro.org"]]
+counter: UINT0
+key: "NONE"
+name: "chambart"
+version: UINT0

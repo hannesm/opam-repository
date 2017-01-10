@@ -1,0 +1,5 @@
+accounts: [["github" "pondering"] ["email" "ipondering.weic@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "pondering"
+version: UINT0

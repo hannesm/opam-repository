@@ -1,0 +1,5 @@
+accounts: [["github" "jj-issuu"] ["email" "jj@issuu.com"]]
+counter: UINT0
+key: "NONE"
+name: "jj-issuu"
+version: UINT0

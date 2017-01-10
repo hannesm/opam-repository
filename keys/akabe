@@ -1,0 +1,5 @@
+accounts: [["github" "akabe"] ["email" "abe_akinori@cyberagent.co.jp"]]
+counter: UINT0
+key: "NONE"
+name: "akabe"
+version: UINT0

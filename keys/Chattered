@@ -1,0 +1,5 @@
+accounts: [["github" "Chattered"] ["email" "me@philscotted.com"]]
+counter: UINT0
+key: "NONE"
+name: "Chattered"
+version: UINT0

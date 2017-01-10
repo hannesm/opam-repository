@@ -1,0 +1,5 @@
+accounts: [["github" "libkenta"] ["email" "libkenta@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "libkenta"
+version: UINT0

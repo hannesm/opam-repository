@@ -1,0 +1,5 @@
+accounts: [["github" "vasilisp"] ["email" "git@vasilis.airpost.net"]]
+counter: UINT0
+key: "NONE"
+name: "vasilisp"
+version: UINT0

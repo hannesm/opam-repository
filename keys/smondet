@@ -1,0 +1,5 @@
+accounts: [["github" "smondet"] ["email" "seb@mondet.org"]]
+counter: UINT0
+key: "NONE"
+name: "smondet"
+version: UINT0

@@ -1,0 +1,5 @@
+accounts: [["github" "claudemarche"] ["email" "Claude.Marche@inria.fr"]]
+counter: UINT0
+key: "NONE"
+name: "claudemarche"
+version: UINT0

@@ -1,0 +1,5 @@
+accounts: [["github" "mathiasbourgoin"] ["email" "mathias.bourgoin@lip6.fr"]]
+counter: UINT0
+key: "NONE"
+name: "mathiasbourgoin"
+version: UINT0

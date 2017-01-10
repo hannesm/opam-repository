@@ -1,0 +1,5 @@
+accounts: [["github" "cheshire"] ["email" "george@metaworld.me"]]
+counter: UINT0
+key: "NONE"
+name: "cheshire"
+version: UINT0

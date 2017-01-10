@@ -1,0 +1,5 @@
+accounts: [["github" "dbuenzli"] ["email" "daniel.buenzli@erratique.ch"]]
+counter: UINT0
+key: "NONE"
+name: "dbuenzli"
+version: UINT0

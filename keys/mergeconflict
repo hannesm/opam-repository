@@ -1,0 +1,5 @@
+accounts: [["github" "mergeconflict"] ["email" "drosen@fitbit.com"]]
+counter: UINT0
+key: "NONE"
+name: "mergeconflict"
+version: UINT0

@@ -1,0 +1,5 @@
+accounts: [["github" "maranget"] ["email" "Luc.Maranget@inria.fr"]]
+counter: UINT0
+key: "NONE"
+name: "maranget"
+version: UINT0

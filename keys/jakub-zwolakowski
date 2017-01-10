@@ -1,0 +1,5 @@
+accounts: [["github" "jakub-zwolakowski"] ["email" "jakub.zwolakowski@inria.fr"]]
+counter: UINT0
+key: "NONE"
+name: "jakub-zwolakowski"
+version: UINT0

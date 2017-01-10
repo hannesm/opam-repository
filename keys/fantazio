@@ -1,0 +1,5 @@
+accounts: [["github" "fantazio"] ["email" "corentin.de.souza@lexifi.com"]]
+counter: UINT0
+key: "NONE"
+name: "fantazio"
+version: UINT0

@@ -1,0 +1,5 @@
+accounts: [["github" "silene"] ["email" "guillaume.melquiond@inria.fr"]]
+counter: UINT0
+key: "NONE"
+name: "silene"
+version: UINT0

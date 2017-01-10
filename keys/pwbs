@@ -1,0 +1,5 @@
+accounts: [["github" "pwbs"] ["email" "philippe.wang@besport.com"]]
+counter: UINT0
+key: "NONE"
+name: "pwbs"
+version: UINT0

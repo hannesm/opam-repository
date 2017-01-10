@@ -1,0 +1,5 @@
+accounts: [["github" "AngryLawyer"] ["email" "tony@dabapps.com"]]
+counter: UINT0
+key: "NONE"
+name: "AngryLawyer"
+version: UINT0

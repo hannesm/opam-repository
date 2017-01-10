@@ -1,0 +1,5 @@
+accounts: [["github" "rixed"] ["email" "rixed@happyleptic.org"]]
+counter: UINT0
+key: "NONE"
+name: "rixed"
+version: UINT0

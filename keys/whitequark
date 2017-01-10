@@ -1,0 +1,5 @@
+accounts: [["github" "whitequark"] ["email" "whitequark@whitequark.org"]]
+counter: UINT0
+key: "NONE"
+name: "whitequark"
+version: UINT0

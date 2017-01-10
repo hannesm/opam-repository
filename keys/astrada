@@ -1,0 +1,5 @@
+accounts: [["github" "astrada"] ["email" "alessandro.strada@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "astrada"
+version: UINT0

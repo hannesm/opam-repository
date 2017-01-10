@@ -1,0 +1,5 @@
+accounts: [["github" "diml"] ["email" "jeremie@dimino.org"]]
+counter: UINT0
+key: "NONE"
+name: "diml"
+version: UINT0

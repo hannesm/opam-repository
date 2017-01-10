@@ -1,0 +1,5 @@
+accounts: [["github" "esope"] ["email" "benoit.montagu_github@m4x.org"]]
+counter: UINT0
+key: "NONE"
+name: "esope"
+version: UINT0

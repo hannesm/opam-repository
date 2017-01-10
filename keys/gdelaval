@@ -1,0 +1,5 @@
+accounts: [["github" "gdelaval"] ["email" "gwenael.delaval@inria.fr"]]
+counter: UINT0
+key: "NONE"
+name: "gdelaval"
+version: UINT0

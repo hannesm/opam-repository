@@ -1,0 +1,5 @@
+accounts: [["github" "AltGr"] ["email" "louis.gesbert@ocamlpro.com"]]
+counter: UINT0
+key: "NONE"
+name: "AltGr"
+version: UINT0

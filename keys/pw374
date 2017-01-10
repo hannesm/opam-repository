@@ -1,0 +1,5 @@
+accounts: [["github" "pw374"] ["email" "philippe.wang@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "pw374"
+version: UINT0

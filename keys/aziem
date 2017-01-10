@@ -1,0 +1,5 @@
+accounts: [["github" "aziem"] ["email" "aziem@chawdhary.co.uk"]]
+counter: UINT0
+key: "NONE"
+name: "aziem"
+version: UINT0

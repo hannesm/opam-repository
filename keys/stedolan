@@ -1,0 +1,5 @@
+accounts: [["github" "stedolan"] ["email" "stephen.dolan@cl.cam.ac.uk"]]
+counter: UINT0
+key: "NONE"
+name: "stedolan"
+version: UINT0

@@ -1,0 +1,5 @@
+accounts: [["github" "m2ym"] ["email" "tomo@cx4a.org"]]
+counter: UINT0
+key: "NONE"
+name: "m2ym"
+version: UINT0

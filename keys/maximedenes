@@ -1,0 +1,5 @@
+accounts: [["github" "maximedenes"] ["email" "mail@maximedenes.fr"]]
+counter: UINT0
+key: "NONE"
+name: "maximedenes"
+version: UINT0

@@ -1,0 +1,5 @@
+accounts: [["github" "benozol"] ["email" "zol@benozol.de"]]
+counter: UINT0
+key: "NONE"
+name: "benozol"
+version: UINT0

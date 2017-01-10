@@ -1,0 +1,5 @@
+accounts: [["github" "nojb"] ["email" "n.oje.bar@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "nojb"
+version: UINT0

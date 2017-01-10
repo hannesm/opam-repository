@@ -1,0 +1,5 @@
+accounts: [["github" "tel"] ["email" "me@jspha.com"]]
+counter: UINT0
+key: "NONE"
+name: "tel"
+version: UINT0

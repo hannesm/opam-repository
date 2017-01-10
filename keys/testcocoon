@@ -1,0 +1,5 @@
+accounts: [["github" "testcocoon"] ["email" "fricker@froglogic.com"]]
+counter: UINT0
+key: "NONE"
+name: "testcocoon"
+version: UINT0

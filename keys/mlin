@@ -1,0 +1,5 @@
+accounts: [["github" "mlin"] ["email" "mlin@mlin.net"]]
+counter: UINT0
+key: "NONE"
+name: "mlin"
+version: UINT0

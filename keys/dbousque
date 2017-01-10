@@ -1,0 +1,5 @@
+accounts: [["github" "dbousque"] ["email" "dbousque@student.42.fr"]]
+counter: UINT0
+key: "NONE"
+name: "dbousque"
+version: UINT0

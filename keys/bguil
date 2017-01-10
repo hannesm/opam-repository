@@ -1,0 +1,5 @@
+accounts: [["github" "bguil"] ["email" "Bruno.Guillaume@loria.fr"]]
+counter: UINT0
+key: "NONE"
+name: "bguil"
+version: UINT0

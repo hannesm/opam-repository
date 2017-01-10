@@ -1,0 +1,5 @@
+accounts: [["github" "aryx"] ["email" "pad@fb.com"]]
+counter: UINT0
+key: "NONE"
+name: "aryx"
+version: UINT0

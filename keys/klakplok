@@ -1,0 +1,5 @@
+accounts: [["github" "klakplok"] ["email" "benjamin@canou.fr"]]
+counter: UINT0
+key: "NONE"
+name: "klakplok"
+version: UINT0

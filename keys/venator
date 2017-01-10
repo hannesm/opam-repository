@@ -1,0 +1,5 @@
+accounts: [["github" "venator"] ["email" "venator@luminar.fr"]]
+counter: UINT0
+key: "NONE"
+name: "venator"
+version: UINT0

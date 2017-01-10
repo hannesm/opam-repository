@@ -1,0 +1,5 @@
+accounts: [["github" "tategakibunko"] ["email" "lambda.watanabe@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "tategakibunko"
+version: UINT0

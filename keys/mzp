@@ -1,0 +1,5 @@
+accounts: [["github" "mzp"] ["email" "mzp.ppp@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "mzp"
+version: UINT0

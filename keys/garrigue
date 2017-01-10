@@ -1,0 +1,5 @@
+accounts: [["github" "garrigue"] ["email" "garrigue@math.nagoya-u.ac.jp"]]
+counter: UINT0
+key: "NONE"
+name: "garrigue"
+version: UINT0

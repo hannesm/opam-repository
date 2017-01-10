@@ -1,0 +1,5 @@
+accounts: [["github" "mor1"] ["email" "mort@cantab.net"]]
+counter: UINT0
+key: "NONE"
+name: "mor1"
+version: UINT0

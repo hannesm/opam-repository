@@ -1,0 +1,5 @@
+accounts: [["github" "pyrocat101"] ["email" "i@pyroc.at"]]
+counter: UINT0
+key: "NONE"
+name: "pyrocat101"
+version: UINT0

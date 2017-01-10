@@ -1,0 +1,5 @@
+accounts: [["github" "axiles"] ["email" "alexis.bernadet@noos.fr"]]
+counter: UINT0
+key: "NONE"
+name: "axiles"
+version: UINT0

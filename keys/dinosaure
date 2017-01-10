@@ -1,0 +1,5 @@
+accounts: [["github" "dinosaure"] ["email" "romain.calascibetta@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "dinosaure"
+version: UINT0

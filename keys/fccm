@@ -1,0 +1,5 @@
+accounts: [["github" "fccm"] ["email" "monnier.florent@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "fccm"
+version: UINT0

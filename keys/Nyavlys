@@ -1,0 +1,5 @@
+accounts: [["github" "Nyavlys"] ["email" "sylvain.pogodalla@inria.fr"]]
+counter: UINT0
+key: "NONE"
+name: "Nyavlys"
+version: UINT0

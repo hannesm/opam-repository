@@ -1,0 +1,5 @@
+accounts: [["github" "gares"] ["email" "gares@fettunta.org"]]
+counter: UINT0
+key: "NONE"
+name: "gares"
+version: UINT0

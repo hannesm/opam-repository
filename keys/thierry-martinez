@@ -1,0 +1,5 @@
+accounts: [["github" "thierry-martinez"] ["email" "martinez@nsup.org"]]
+counter: UINT0
+key: "NONE"
+name: "thierry-martinez"
+version: UINT0

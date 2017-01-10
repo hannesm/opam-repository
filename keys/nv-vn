@@ -1,0 +1,5 @@
+accounts: [["github" "nv-vn"] ["email" "nv@cock.li"]]
+counter: UINT0
+key: "NONE"
+name: "nv-vn"
+version: UINT0

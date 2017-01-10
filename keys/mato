@@ -1,0 +1,5 @@
+accounts: [["github" "mato"] ["email" "martin@lucina.net"]]
+counter: UINT0
+key: "NONE"
+name: "mato"
+version: UINT0

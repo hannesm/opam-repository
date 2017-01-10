@@ -1,0 +1,5 @@
+accounts: [["github" "thelema"] ["email" "thelema314@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "thelema"
+version: UINT0

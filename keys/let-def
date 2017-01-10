@@ -1,0 +1,5 @@
+accounts: [["github" "let-def"] ["email" "frederic.bour@lakaban.net"]]
+counter: UINT0
+key: "NONE"
+name: "let-def"
+version: UINT0

@@ -1,0 +1,5 @@
+accounts: [["github" "mfp"] ["email" "mfp@acm.org"]]
+counter: UINT0
+key: "NONE"
+name: "mfp"
+version: UINT0

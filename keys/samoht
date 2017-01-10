@@ -1,0 +1,5 @@
+accounts: [["github" "samoht"] ["email" "thomas@gazagnaire.org"]]
+counter: UINT0
+key: "NONE"
+name: "samoht"
+version: UINT0

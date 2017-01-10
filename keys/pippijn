@@ -1,0 +1,5 @@
+accounts: [["github" "pippijn"] ["email" "pippijn@di.ens.fr"]]
+counter: UINT0
+key: "NONE"
+name: "pippijn"
+version: UINT0

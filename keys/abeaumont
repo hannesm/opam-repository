@@ -1,0 +1,5 @@
+accounts: [["github" "abeaumont"] ["email" "alfredo.beaumont@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "abeaumont"
+version: UINT0

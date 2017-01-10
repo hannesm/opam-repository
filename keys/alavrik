@@ -1,0 +1,5 @@
+accounts: [["github" "alavrik"] ["email" "alavrik@piqi.org"]]
+counter: UINT0
+key: "NONE"
+name: "alavrik"
+version: UINT0

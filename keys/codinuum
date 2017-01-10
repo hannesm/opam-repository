@@ -1,0 +1,5 @@
+accounts: [["github" "codinuum"] ["email" "codinuum@me.com"]]
+counter: UINT0
+key: "NONE"
+name: "codinuum"
+version: UINT0

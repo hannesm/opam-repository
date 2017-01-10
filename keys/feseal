@@ -1,0 +1,5 @@
+accounts: [["github" "feseal"] ["email" "feseal@yandex.ru"]]
+counter: UINT0
+key: "NONE"
+name: "feseal"
+version: UINT0

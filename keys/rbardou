@@ -1,0 +1,5 @@
+accounts: [["github" "rbardou"] ["email" "romain@cryptosense.com"]]
+counter: UINT0
+key: "NONE"
+name: "rbardou"
+version: UINT0

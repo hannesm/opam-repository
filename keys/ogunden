@@ -1,0 +1,5 @@
+accounts: [["github" "ogunden"] ["email" "ogunden@phauna.org"]]
+counter: UINT0
+key: "NONE"
+name: "ogunden"
+version: UINT0

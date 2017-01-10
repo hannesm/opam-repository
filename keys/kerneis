@@ -1,0 +1,5 @@
+accounts: [["github" "kerneis"] ["email" "gabriel@kerneis.info"]]
+counter: UINT0
+key: "NONE"
+name: "kerneis"
+version: UINT0

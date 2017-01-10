@@ -1,0 +1,5 @@
+accounts: [["github" "anyakichi"] ["email" "inajima@sopht.jp"]]
+counter: UINT0
+key: "NONE"
+name: "anyakichi"
+version: UINT0

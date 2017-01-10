@@ -1,0 +1,5 @@
+accounts: [["github" "ergl"] ["email" "ergl@users.noreply.github.com"]]
+counter: UINT0
+key: "NONE"
+name: "ergl"
+version: UINT0

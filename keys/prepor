@@ -1,0 +1,5 @@
+accounts: [["github" "prepor"] ["email" "ceo@prepor.ru"]]
+counter: UINT0
+key: "NONE"
+name: "prepor"
+version: UINT0

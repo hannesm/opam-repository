@@ -1,0 +1,5 @@
+accounts: [["github" "nobrowser"] ["email" "nobrowser@users.noreply.github.com"]]
+counter: UINT0
+key: "NONE"
+name: "nobrowser"
+version: UINT0

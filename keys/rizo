@@ -1,0 +1,5 @@
+accounts: [["github" "rizo"] ["email" "rizo@odis.io"]]
+counter: UINT0
+key: "NONE"
+name: "rizo"
+version: UINT0

@@ -1,0 +1,5 @@
+accounts: [["github" "sawja-admin"] ["email" "lguillo@reniala.irisa.fr"]]
+counter: UINT0
+key: "NONE"
+name: "sawja-admin"
+version: UINT0

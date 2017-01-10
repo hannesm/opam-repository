@@ -1,0 +1,5 @@
+accounts: [["github" "HappyCrow"] ["email" "berenger@riken.jp"]]
+counter: UINT0
+key: "NONE"
+name: "HappyCrow"
+version: UINT0

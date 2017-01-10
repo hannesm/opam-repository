@@ -1,0 +1,5 @@
+accounts: [["github" "pgj"] ["email" "pali.gabor@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "pgj"
+version: UINT0

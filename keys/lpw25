@@ -1,0 +1,5 @@
+accounts: [["github" "lpw25"] ["email" "leo@lpw25.net"]]
+counter: UINT0
+key: "NONE"
+name: "lpw25"
+version: UINT0

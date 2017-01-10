@@ -1,0 +1,5 @@
+accounts: [["github" "cristianoc"] ["email" "cristianoc@fb.com"]]
+counter: UINT0
+key: "NONE"
+name: "cristianoc"
+version: UINT0

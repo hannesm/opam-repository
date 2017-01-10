@@ -1,0 +1,5 @@
+accounts: [["github" "cago"] ["email" "bozman.cagdas@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "cago"
+version: UINT0

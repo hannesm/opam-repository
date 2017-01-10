@@ -1,0 +1,5 @@
+accounts: [["github" "UnixJunkie"] ["email" "francois.berenger@inria.fr"]]
+counter: UINT0
+key: "NONE"
+name: "UnixJunkie"
+version: UINT0

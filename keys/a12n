@@ -1,0 +1,5 @@
+accounts: [["github" "a12n"] ["email" "arn@bestmx.ru"]]
+counter: UINT0
+key: "NONE"
+name: "a12n"
+version: UINT0

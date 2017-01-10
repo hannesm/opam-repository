@@ -1,0 +1,5 @@
+accounts: [["github" "Drup"] ["email" "drupyog@zoho.com"]]
+counter: UINT0
+key: "NONE"
+name: "Drup"
+version: UINT0

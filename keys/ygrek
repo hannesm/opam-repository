@@ -1,0 +1,5 @@
+accounts: [["github" "ygrek"] ["email" "ygrek@autistici.org"]]
+counter: UINT0
+key: "NONE"
+name: "ygrek"
+version: UINT0

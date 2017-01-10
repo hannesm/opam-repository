@@ -1,0 +1,5 @@
+accounts: [["github" "yomimono"] ["email" "mindy.preston@docker.com"]]
+counter: UINT0
+key: "NONE"
+name: "yomimono"
+version: UINT0

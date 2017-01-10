@@ -1,0 +1,5 @@
+accounts: [["github" "mwweissmann"] ["email" "markus.weissmann@in.tum.de"]]
+counter: UINT0
+key: "NONE"
+name: "mwweissmann"
+version: UINT0

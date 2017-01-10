@@ -1,0 +1,5 @@
+accounts: [["github" "vprevosto"] ["email" "virgile.prevosto@m4x.org"]]
+counter: UINT0
+key: "NONE"
+name: "vprevosto"
+version: UINT0

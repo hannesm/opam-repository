@@ -1,0 +1,5 @@
+accounts: [["github" "nbraud"] ["email" "nicolas@braud-santoni.eu"]]
+counter: UINT0
+key: "NONE"
+name: "nbraud"
+version: UINT0

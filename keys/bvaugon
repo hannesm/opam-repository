@@ -1,0 +1,5 @@
+accounts: [["github" "bvaugon"] ["email" "benoit.vaugon@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "bvaugon"
+version: UINT0

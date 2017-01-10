@@ -1,0 +1,5 @@
+accounts: [["github" "metadave"] ["email" "dparfitt@basho.com"]]
+counter: UINT0
+key: "NONE"
+name: "metadave"
+version: UINT0

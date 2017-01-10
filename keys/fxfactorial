@@ -1,0 +1,5 @@
+accounts: [["github" "fxfactorial"] ["email" "edgar.factorial@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "fxfactorial"
+version: UINT0

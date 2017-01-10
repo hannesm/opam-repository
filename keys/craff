@@ -1,0 +1,5 @@
+accounts: [["github" "craff"] ["email" "raffalli@univ-savoie.fr"]]
+counter: UINT0
+key: "NONE"
+name: "craff"
+version: UINT0

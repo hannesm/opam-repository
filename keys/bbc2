@@ -1,0 +1,5 @@
+accounts: [["github" "bbc2"] ["email" "bertrand@cryptosense.com"]]
+counter: UINT0
+key: "NONE"
+name: "bbc2"
+version: UINT0

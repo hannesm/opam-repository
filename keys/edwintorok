@@ -1,0 +1,5 @@
+accounts: [["github" "edwintorok"] ["email" "edwin@skylable.com"]]
+counter: UINT0
+key: "NONE"
+name: "edwintorok"
+version: UINT0

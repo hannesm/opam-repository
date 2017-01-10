@@ -1,0 +1,5 @@
+accounts: [["github" "snu-sf"] ["email" "jeehoon.kang@sf.snu.ac.kr"]]
+counter: UINT0
+key: "NONE"
+name: "snu-sf"
+version: UINT0

@@ -1,0 +1,5 @@
+accounts: [["github" "Kakadu"] ["email" "kakadu.hafanana@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "Kakadu"
+version: UINT0

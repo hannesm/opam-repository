@@ -1,0 +1,5 @@
+accounts: [["github" "rafoo"] ["email" "cauderlier@crans.org"]]
+counter: UINT0
+key: "NONE"
+name: "rafoo"
+version: UINT0

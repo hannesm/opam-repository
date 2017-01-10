@@ -1,0 +1,5 @@
+accounts: [["github" "jonathanyc"] ["email" "jyc@fastmail.fm"]]
+counter: UINT0
+key: "NONE"
+name: "jonathanyc"
+version: UINT0

@@ -1,0 +1,5 @@
+accounts: [["github" "tuong"] ["email" "frederic.tuong@inria.fr"]]
+counter: UINT0
+key: "NONE"
+name: "tuong"
+version: UINT0

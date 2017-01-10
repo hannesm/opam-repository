@@ -1,0 +1,5 @@
+accounts: [["github" "dannywillems"] ["email" "contact@danny-willems.be"]]
+counter: UINT0
+key: "NONE"
+name: "dannywillems"
+version: UINT0

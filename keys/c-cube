@@ -1,0 +1,5 @@
+accounts: [["github" "c-cube"] ["email" "simon.cruanes@inria.fr"]]
+counter: UINT0
+key: "NONE"
+name: "c-cube"
+version: UINT0

@@ -1,0 +1,5 @@
+accounts: [["github" "talex5"] ["email" "talex5@gmail.com"]]
+counter: UINT0
+key: "NONE"
+name: "talex5"
+version: UINT0

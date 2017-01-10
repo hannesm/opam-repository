@@ -1,0 +1,5 @@
+accounts: [["github" "fpottier"] ["email" "francois.pottier@inria.fr"]]
+counter: UINT0
+key: "NONE"
+name: "fpottier"
+version: UINT0
