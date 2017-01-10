@@ -1,0 +1,4 @@
+authorised: ["xguerin"]
+counter: UINT0
+name: "bitstring"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["abeaumont"]
+counter: UINT0
+name: "scrypt-kdf"
+version: UINT0

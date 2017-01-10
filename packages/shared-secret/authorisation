@@ -1,0 +1,4 @@
+authorised: ["marcoonroad"]
+counter: UINT0
+name: "shared-secret"
+version: UINT0

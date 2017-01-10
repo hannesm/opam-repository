@@ -1,0 +1,4 @@
+authorised: ["314eter"]
+counter: UINT0
+name: "xxhash"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["sagotch"]
+counter: UINT0
+name: "gedcom"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["mlasson"]
+counter: UINT0
+name: "landmarks"
+version: UINT0

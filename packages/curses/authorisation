@@ -1,0 +1,4 @@
+authorised: ["ogunden"]
+counter: UINT0
+name: "curses"
+version: UINT0

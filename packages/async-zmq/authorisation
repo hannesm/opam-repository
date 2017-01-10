@@ -1,0 +1,4 @@
+authorised: ["rgrinberg"]
+counter: UINT0
+name: "async-zmq"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["mirage"]
+counter: UINT0
+name: "cow"
+version: UINT0

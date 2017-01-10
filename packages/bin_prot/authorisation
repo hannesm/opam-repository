@@ -1,0 +1,4 @@
+authorised: ["janestreet"]
+counter: UINT0
+name: "bin_prot"
+version: UINT0

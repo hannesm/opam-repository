@@ -1,0 +1,4 @@
+authorised: ["hannesm"]
+counter: UINT0
+name: "duration"
+version: UINT0

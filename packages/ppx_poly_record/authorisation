@@ -1,0 +1,4 @@
+authorised: ["camlspotter"]
+counter: UINT0
+name: "ppx_poly_record"
+version: UINT0

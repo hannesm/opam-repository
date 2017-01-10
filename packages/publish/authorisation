@@ -1,0 +1,4 @@
+authorised: ["AltGr"]
+counter: UINT0
+name: "publish"
+version: UINT0

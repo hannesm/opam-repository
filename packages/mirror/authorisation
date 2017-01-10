@@ -1,0 +1,4 @@
+authorised: ["avsm"]
+counter: UINT0
+name: "mirror"
+version: UINT0

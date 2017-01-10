@@ -1,0 +1,4 @@
+authorised: ["whitequark"]
+counter: UINT0
+name: "inotify"
+version: UINT0

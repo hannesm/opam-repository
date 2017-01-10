@@ -1,0 +1,4 @@
+authorised: ["alt-ergo"]
+counter: UINT0
+name: "fm-simplex-plugin"
+version: UINT0

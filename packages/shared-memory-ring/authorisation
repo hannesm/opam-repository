@@ -1,0 +1,4 @@
+authorised: ["djs55"]
+counter: UINT0
+name: "shared-memory-ring"
+version: UINT0

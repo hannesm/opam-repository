@@ -1,0 +1,4 @@
+authorised: ["xapi-project"]
+counter: UINT0
+name: "xen-block-driver"
+version: UINT0

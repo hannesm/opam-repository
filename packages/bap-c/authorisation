@@ -1,0 +1,4 @@
+authorised: ["ivg"]
+counter: UINT0
+name: "bap-c"
+version: UINT0

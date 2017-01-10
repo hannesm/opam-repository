@@ -1,0 +1,4 @@
+authorised: ["samoht"]
+counter: UINT0
+name: "hex"
+version: UINT0

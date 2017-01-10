@@ -1,0 +1,4 @@
+authorised: ["talex5"]
+counter: UINT0
+name: "irmin-indexeddb"
+version: UINT0

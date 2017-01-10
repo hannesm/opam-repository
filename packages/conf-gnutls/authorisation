@@ -1,0 +1,4 @@
+authorised: ["vbmithr"]
+counter: UINT0
+name: "conf-gnutls"
+version: UINT0

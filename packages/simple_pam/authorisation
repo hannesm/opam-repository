@@ -1,0 +1,4 @@
+authorised: ["smondet"]
+counter: UINT0
+name: "simple_pam"
+version: UINT0

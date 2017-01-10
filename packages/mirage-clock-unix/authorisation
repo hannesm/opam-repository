@@ -1,0 +1,4 @@
+authorised: ["mirage"]
+counter: UINT0
+name: "mirage-clock-unix"
+version: UINT0

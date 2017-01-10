@@ -1,0 +1,4 @@
+authorised: ["diml"]
+counter: UINT0
+name: "optcomp"
+version: UINT0

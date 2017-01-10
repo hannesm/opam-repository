@@ -1,0 +1,4 @@
+authorised: ["akabe"]
+counter: UINT0
+name: "slap"
+version: UINT0

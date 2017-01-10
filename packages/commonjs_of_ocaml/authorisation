@@ -1,0 +1,4 @@
+authorised: ["AngryLawyer"]
+counter: UINT0
+name: "commonjs_of_ocaml"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["tokenrove"]
+counter: UINT0
+name: "tsdl-image"
+version: UINT0

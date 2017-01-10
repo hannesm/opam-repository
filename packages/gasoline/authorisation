@@ -1,0 +1,4 @@
+authorised: ["michipili"]
+counter: UINT0
+name: "gasoline"
+version: UINT0

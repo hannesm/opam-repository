@@ -1,0 +1,4 @@
+authorised: ["let-def"]
+counter: UINT0
+name: "stb_image_write"
+version: UINT0

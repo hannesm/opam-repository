@@ -1,0 +1,4 @@
+authorised: ["UnixJunkie"]
+counter: UINT0
+name: "conf-mpfr"
+version: UINT0

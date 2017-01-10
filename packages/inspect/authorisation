@@ -1,0 +1,4 @@
+authorised: ["krohrer"]
+counter: UINT0
+name: "inspect"
+version: UINT0

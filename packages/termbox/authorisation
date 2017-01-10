@@ -1,0 +1,4 @@
+authorised: ["pacemkr"]
+counter: UINT0
+name: "termbox"
+version: UINT0

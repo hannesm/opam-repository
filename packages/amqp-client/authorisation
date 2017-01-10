@@ -1,0 +1,4 @@
+authorised: ["andersfugmann"]
+counter: UINT0
+name: "amqp-client"
+version: UINT0

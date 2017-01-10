@@ -1,0 +1,4 @@
+authorised: ["sylvarant"]
+counter: UINT0
+name: "base58"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["alt-ergo"]
+counter: UINT0
+name: "satML-plugin"
+version: UINT0

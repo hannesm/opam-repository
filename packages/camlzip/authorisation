@@ -1,0 +1,4 @@
+authorised: ["emillon"]
+counter: UINT0
+name: "camlzip"
+version: UINT0

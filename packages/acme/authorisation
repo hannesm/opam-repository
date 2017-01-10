@@ -1,0 +1,4 @@
+authorised: ["raphael-proust"]
+counter: UINT0
+name: "acme"
+version: UINT0

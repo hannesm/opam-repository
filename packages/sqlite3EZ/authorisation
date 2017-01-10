@@ -1,0 +1,4 @@
+authorised: ["mlin"]
+counter: UINT0
+name: "sqlite3EZ"
+version: UINT0

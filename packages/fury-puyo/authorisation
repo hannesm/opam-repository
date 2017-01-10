@@ -1,0 +1,4 @@
+authorised: ["chambart"]
+counter: UINT0
+name: "fury-puyo"
+version: UINT0

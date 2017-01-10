@@ -1,0 +1,4 @@
+authorised: ["timbertson"]
+counter: UINT0
+name: "conf-perl"
+version: UINT0

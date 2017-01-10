@@ -1,0 +1,4 @@
+authorised: ["toots"]
+counter: UINT0
+name: "samplerate"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["stedolan"]
+counter: UINT0
+name: "afl-persistent"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["imeckler"]
+counter: UINT0
+name: "stationary"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["janestreet"]
+counter: UINT0
+name: "ppx_inline_test"
+version: UINT0

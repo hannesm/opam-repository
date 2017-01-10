@@ -1,0 +1,4 @@
+authorised: ["xguerin"]
+counter: UINT0
+name: "ppx_deriving_hardcaml"
+version: UINT0

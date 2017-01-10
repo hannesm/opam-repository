@@ -1,0 +1,4 @@
+authorised: ["Chris00"]
+counter: UINT0
+name: "lpd"
+version: UINT0

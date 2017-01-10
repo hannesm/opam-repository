@@ -1,0 +1,4 @@
+authorised: ["janestreet"]
+counter: UINT0
+name: "stdio"
+version: UINT0

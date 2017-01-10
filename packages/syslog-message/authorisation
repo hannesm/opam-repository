@@ -1,0 +1,4 @@
+authorised: ["verbosemode"]
+counter: UINT0
+name: "syslog-message"
+version: UINT0

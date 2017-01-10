@@ -1,0 +1,4 @@
+authorised: ["diml"]
+counter: UINT0
+name: "estring"
+version: UINT0

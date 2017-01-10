@@ -1,0 +1,4 @@
+authorised: ["thelema"]
+counter: UINT0
+name: "batteries"
+version: UINT0

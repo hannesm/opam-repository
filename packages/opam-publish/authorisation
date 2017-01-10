@@ -1,0 +1,4 @@
+authorised: ["AltGr"]
+counter: UINT0
+name: "opam-publish"
+version: UINT0

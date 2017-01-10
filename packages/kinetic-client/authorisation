@@ -1,0 +1,4 @@
+authorised: ["toolslive"]
+counter: UINT0
+name: "kinetic-client"
+version: UINT0

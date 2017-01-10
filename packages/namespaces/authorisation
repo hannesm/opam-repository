@@ -1,0 +1,4 @@
+authorised: ["aantron"]
+counter: UINT0
+name: "namespaces"
+version: UINT0

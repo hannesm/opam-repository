@@ -1,0 +1,4 @@
+authorised: ["vbmithr"]
+counter: UINT0
+name: "qrencode"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["whitequark"]
+counter: UINT0
+name: "ppx_deriving_yojson"
+version: UINT0

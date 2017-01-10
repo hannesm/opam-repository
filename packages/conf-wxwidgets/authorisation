@@ -1,0 +1,4 @@
+authorised: ["lefessan"]
+counter: UINT0
+name: "conf-wxwidgets"
+version: UINT0

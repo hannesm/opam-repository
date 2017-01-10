@@ -1,0 +1,4 @@
+authorised: ["lindig"]
+counter: UINT0
+name: "lipsum"
+version: UINT0

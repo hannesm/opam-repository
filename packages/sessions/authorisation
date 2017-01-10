@@ -1,0 +1,4 @@
+authorised: ["essdotteedot"]
+counter: UINT0
+name: "sessions"
+version: UINT0

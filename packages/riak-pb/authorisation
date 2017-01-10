@@ -1,0 +1,4 @@
+authorised: ["metadave"]
+counter: UINT0
+name: "riak-pb"
+version: UINT0

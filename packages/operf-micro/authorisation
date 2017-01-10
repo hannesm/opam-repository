@@ -1,0 +1,4 @@
+authorised: ["chambart"]
+counter: UINT0
+name: "operf-micro"
+version: UINT0

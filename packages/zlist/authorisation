@@ -1,0 +1,4 @@
+authorised: ["hakuch"]
+counter: UINT0
+name: "zlist"
+version: UINT0

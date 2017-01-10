@@ -1,0 +1,4 @@
+authorised: ["mzp"]
+counter: UINT0
+name: "msgpack"
+version: UINT0

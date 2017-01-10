@@ -1,0 +1,4 @@
+authorised: ["johnelse"]
+counter: UINT0
+name: "crc"
+version: UINT0

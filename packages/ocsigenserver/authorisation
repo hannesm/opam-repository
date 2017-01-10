@@ -1,0 +1,4 @@
+authorised: ["ocsigen"]
+counter: UINT0
+name: "ocsigenserver"
+version: UINT0

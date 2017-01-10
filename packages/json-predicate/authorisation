@@ -1,0 +1,4 @@
+authorised: ["mwweissmann"]
+counter: UINT0
+name: "json-predicate"
+version: UINT0

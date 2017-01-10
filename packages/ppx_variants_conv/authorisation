@@ -1,0 +1,4 @@
+authorised: ["janestreet"]
+counter: UINT0
+name: "ppx_variants_conv"
+version: UINT0

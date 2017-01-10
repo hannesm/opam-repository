@@ -1,0 +1,4 @@
+authorised: ["smondet"]
+counter: UINT0
+name: "atd2cconv"
+version: UINT0

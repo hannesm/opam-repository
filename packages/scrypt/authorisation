@@ -1,0 +1,4 @@
+authorised: ["pacemkr"]
+counter: UINT0
+name: "scrypt"
+version: UINT0

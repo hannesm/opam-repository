@@ -1,0 +1,4 @@
+authorised: ["vbmithr"]
+counter: UINT0
+name: "wamp"
+version: UINT0

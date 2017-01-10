@@ -1,0 +1,4 @@
+authorised: ["maximedenes"]
+counter: UINT0
+name: "coqide"
+version: UINT0

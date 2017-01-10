@@ -1,0 +1,4 @@
+authorised: ["emillon"]
+counter: UINT0
+name: "conf-gmp-powm-sec"
+version: UINT0

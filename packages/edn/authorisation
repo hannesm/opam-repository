@@ -1,0 +1,4 @@
+authorised: ["prepor"]
+counter: UINT0
+name: "edn"
+version: UINT0

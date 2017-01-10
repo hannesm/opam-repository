@@ -1,0 +1,4 @@
+authorised: ["bobatkey"]
+counter: UINT0
+name: "ppx_monoid"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["bataille"]
+counter: UINT0
+name: "transmission-rpc"
+version: UINT0

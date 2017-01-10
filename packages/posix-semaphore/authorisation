@@ -1,0 +1,4 @@
+authorised: ["mwweissmann"]
+counter: UINT0
+name: "posix-semaphore"
+version: UINT0

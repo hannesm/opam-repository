@@ -1,0 +1,4 @@
+authorised: ["c-cube"]
+counter: UINT0
+name: "bencode_rpc"
+version: UINT0

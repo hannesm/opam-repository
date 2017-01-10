@@ -1,0 +1,4 @@
+authorised: ["aluuu"]
+counter: UINT0
+name: "osm_xml"
+version: UINT0

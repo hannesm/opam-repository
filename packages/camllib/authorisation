@@ -1,0 +1,4 @@
+authorised: ["nberth"]
+counter: UINT0
+name: "camllib"
+version: UINT0

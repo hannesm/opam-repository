@@ -1,0 +1,4 @@
+authorised: ["Nyavlys"]
+counter: UINT0
+name: "bolt"
+version: UINT0

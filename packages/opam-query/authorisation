@@ -1,0 +1,4 @@
+authorised: ["whitequark"]
+counter: UINT0
+name: "opam-query"
+version: UINT0

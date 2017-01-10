@@ -1,0 +1,4 @@
+authorised: ["AltGr" "avsm"]
+counter: UINT0
+name: "depext"
+version: UINT0

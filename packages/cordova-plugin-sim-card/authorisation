@@ -1,0 +1,4 @@
+authorised: ["dannywillems"]
+counter: UINT0
+name: "cordova-plugin-sim-card"
+version: UINT0

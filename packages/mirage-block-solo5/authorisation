@@ -1,0 +1,4 @@
+authorised: ["mirage"]
+counter: UINT0
+name: "mirage-block-solo5"
+version: UINT0

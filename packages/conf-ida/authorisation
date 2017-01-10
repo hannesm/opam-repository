@@ -1,0 +1,4 @@
+authorised: ["ivg"]
+counter: UINT0
+name: "conf-ida"
+version: UINT0

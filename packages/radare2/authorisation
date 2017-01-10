@@ -1,0 +1,4 @@
+authorised: ["fxfactorial"]
+counter: UINT0
+name: "radare2"
+version: UINT0

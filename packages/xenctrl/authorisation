@@ -1,0 +1,4 @@
+authorised: ["xapi-project"]
+counter: UINT0
+name: "xenctrl"
+version: UINT0

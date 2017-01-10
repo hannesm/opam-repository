@@ -1,0 +1,4 @@
+authorised: ["hcarty"]
+counter: UINT0
+name: "gdal"
+version: UINT0

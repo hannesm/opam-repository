@@ -1,0 +1,4 @@
+authorised: ["avsm"]
+counter: UINT0
+name: "opam-installext"
+version: UINT0

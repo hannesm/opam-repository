@@ -1,0 +1,4 @@
+authorised: ["dbuenzli"]
+counter: UINT0
+name: "uucd"
+version: UINT0

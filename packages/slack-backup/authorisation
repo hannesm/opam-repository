@@ -1,0 +1,4 @@
+authorised: ["Khady"]
+counter: UINT0
+name: "slack-backup"
+version: UINT0

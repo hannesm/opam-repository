@@ -1,0 +1,4 @@
+authorised: ["slegrand45"]
+counter: UINT0
+name: "mysql_protocol"
+version: UINT0

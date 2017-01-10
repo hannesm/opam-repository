@@ -1,0 +1,4 @@
+authorised: ["janestreet"]
+counter: UINT0
+name: "ppx_compare"
+version: UINT0

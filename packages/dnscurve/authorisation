@@ -1,0 +1,4 @@
+authorised: ["dsheets"]
+counter: UINT0
+name: "dnscurve"
+version: UINT0

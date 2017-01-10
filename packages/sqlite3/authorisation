@@ -1,0 +1,4 @@
+authorised: ["mmottl"]
+counter: UINT0
+name: "sqlite3"
+version: UINT0

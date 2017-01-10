@@ -1,0 +1,4 @@
+authorised: ["mor1"]
+counter: UINT0
+name: "tftp"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["samoht"]
+counter: UINT0
+name: "irmin-unix"
+version: UINT0

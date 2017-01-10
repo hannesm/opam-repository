@@ -1,0 +1,4 @@
+authorised: ["clarus"]
+counter: UINT0
+name: "smart-print"
+version: UINT0

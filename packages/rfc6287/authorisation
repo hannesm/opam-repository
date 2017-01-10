@@ -1,0 +1,4 @@
+authorised: ["sg2342"]
+counter: UINT0
+name: "rfc6287"
+version: UINT0

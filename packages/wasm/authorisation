@@ -1,0 +1,4 @@
+authorised: ["protz"]
+counter: UINT0
+name: "wasm"
+version: UINT0

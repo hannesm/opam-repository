@@ -1,0 +1,4 @@
+authorised: ["mfp"]
+counter: UINT0
+name: "sqlexpr"
+version: UINT0

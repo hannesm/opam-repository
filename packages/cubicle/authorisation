@@ -1,0 +1,4 @@
+authorised: ["mebsout"]
+counter: UINT0
+name: "cubicle"
+version: UINT0

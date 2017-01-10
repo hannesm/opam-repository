@@ -1,0 +1,4 @@
+authorised: ["choeger"]
+counter: UINT0
+name: "ppx_deriving_morphism"
+version: UINT0

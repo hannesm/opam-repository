@@ -1,0 +1,4 @@
+authorised: ["hannesm" "pqwy"]
+counter: UINT0
+name: "x509"
+version: UINT0

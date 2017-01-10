@@ -1,0 +1,4 @@
+authorised: ["kandu"]
+counter: UINT0
+name: "opencc"
+version: UINT0

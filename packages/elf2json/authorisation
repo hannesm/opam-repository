@@ -1,0 +1,4 @@
+authorised: ["m4b"]
+counter: UINT0
+name: "elf2json"
+version: UINT0

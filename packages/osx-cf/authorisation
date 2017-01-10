@@ -1,0 +1,4 @@
+authorised: ["dsheets"]
+counter: UINT0
+name: "osx-cf"
+version: UINT0

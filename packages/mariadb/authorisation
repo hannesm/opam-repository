@@ -1,0 +1,4 @@
+authorised: ["andrenth"]
+counter: UINT0
+name: "mariadb"
+version: UINT0

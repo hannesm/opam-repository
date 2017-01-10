@@ -1,0 +1,4 @@
+authorised: ["UnixJunkie"]
+counter: UINT0
+name: "conf-wget"
+version: UINT0

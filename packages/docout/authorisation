@@ -1,0 +1,4 @@
+authorised: ["smondet"]
+counter: UINT0
+name: "docout"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["yminsky"]
+counter: UINT0
+name: "planets"
+version: UINT0

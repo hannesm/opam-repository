@@ -1,0 +1,4 @@
+authorised: ["let-def"]
+counter: UINT0
+name: "assimp"
+version: UINT0

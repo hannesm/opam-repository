@@ -1,0 +1,4 @@
+authorised: ["olgu"]
+counter: UINT0
+name: "gnuplot"
+version: UINT0

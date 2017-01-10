@@ -1,0 +1,4 @@
+authorised: ["abate"]
+counter: UINT0
+name: "ocaml-buddy"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["craff"]
+counter: UINT0
+name: "bindlib"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["ygrek"]
+counter: UINT0
+name: "erm_xml"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["andrenth"]
+counter: UINT0
+name: "ospec"
+version: UINT0

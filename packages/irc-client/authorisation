@@ -1,0 +1,4 @@
+authorised: ["johnelse"]
+counter: UINT0
+name: "irc-client"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["Kakadu"]
+counter: UINT0
+name: "conf-qt"
+version: UINT0

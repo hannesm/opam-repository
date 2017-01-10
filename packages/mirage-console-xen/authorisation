@@ -1,0 +1,4 @@
+authorised: ["mirage"]
+counter: UINT0
+name: "mirage-console-xen"
+version: UINT0

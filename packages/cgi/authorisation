@@ -1,0 +1,4 @@
+authorised: ["rixed"]
+counter: UINT0
+name: "cgi"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["johnelse"]
+counter: UINT0
+name: "spotify-cli"
+version: UINT0

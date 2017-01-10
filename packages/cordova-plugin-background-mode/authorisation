@@ -1,0 +1,4 @@
+authorised: ["dannywillems"]
+counter: UINT0
+name: "cordova-plugin-background-mode"
+version: UINT0

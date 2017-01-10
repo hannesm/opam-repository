@@ -1,0 +1,4 @@
+authorised: ["lebotlan"]
+counter: UINT0
+name: "exenum"
+version: UINT0

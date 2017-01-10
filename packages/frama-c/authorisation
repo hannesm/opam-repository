@@ -1,0 +1,4 @@
+authorised: ["bobot"]
+counter: UINT0
+name: "frama-c"
+version: UINT0

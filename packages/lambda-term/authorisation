@@ -1,0 +1,4 @@
+authorised: ["diml"]
+counter: UINT0
+name: "lambda-term"
+version: UINT0

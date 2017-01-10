@@ -1,0 +1,4 @@
+authorised: ["ivg"]
+counter: UINT0
+name: "bap-taint-propagator"
+version: UINT0

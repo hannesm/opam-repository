@@ -1,0 +1,4 @@
+authorised: ["bbc2"]
+counter: UINT0
+name: "enumerators"
+version: UINT0

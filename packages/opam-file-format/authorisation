@@ -1,0 +1,4 @@
+authorised: ["AltGr"]
+counter: UINT0
+name: "opam-file-format"
+version: UINT0

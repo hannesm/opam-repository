@@ -1,0 +1,4 @@
+authorised: ["johnelse"]
+counter: UINT0
+name: "spotify-web-api"
+version: UINT0

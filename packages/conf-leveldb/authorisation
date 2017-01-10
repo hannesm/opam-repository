@@ -1,0 +1,4 @@
+authorised: ["mfp"]
+counter: UINT0
+name: "conf-leveldb"
+version: UINT0

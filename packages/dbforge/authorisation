@@ -1,0 +1,4 @@
+authorised: ["zoggy"]
+counter: UINT0
+name: "dbforge"
+version: UINT0

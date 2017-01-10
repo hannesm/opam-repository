@@ -1,0 +1,4 @@
+authorised: ["vprevosto"]
+counter: UINT0
+name: "conf-gnomecanvas"
+version: UINT0

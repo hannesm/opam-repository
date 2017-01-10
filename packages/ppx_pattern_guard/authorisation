@@ -1,0 +1,4 @@
+authorised: ["camlspotter"]
+counter: UINT0
+name: "ppx_pattern_guard"
+version: UINT0

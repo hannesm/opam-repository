@@ -1,0 +1,4 @@
+authorised: ["xapi-project"]
+counter: UINT0
+name: "xen-api-client"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["janestreet"]
+counter: UINT0
+name: "email_message"
+version: UINT0

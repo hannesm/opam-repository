@@ -1,0 +1,4 @@
+authorised: ["smimram"]
+counter: UINT0
+name: "ftp"
+version: UINT0

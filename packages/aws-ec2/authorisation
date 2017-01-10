@@ -1,0 +1,4 @@
+authorised: ["seliopou"]
+counter: UINT0
+name: "aws-ec2"
+version: UINT0

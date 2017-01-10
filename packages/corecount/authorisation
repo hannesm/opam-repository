@@ -1,0 +1,4 @@
+authorised: ["fxfactorial"]
+counter: UINT0
+name: "corecount"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["j0sh"]
+counter: UINT0
+name: "mqtt"
+version: UINT0

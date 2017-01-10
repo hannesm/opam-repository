@@ -1,0 +1,4 @@
+authorised: ["andersfugmann"]
+counter: UINT0
+name: "zmq"
+version: UINT0

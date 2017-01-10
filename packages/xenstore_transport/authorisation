@@ -1,0 +1,4 @@
+authorised: ["xapi-project"]
+counter: UINT0
+name: "xenstore_transport"
+version: UINT0

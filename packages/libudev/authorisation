@@ -1,0 +1,4 @@
+authorised: ["Armael"]
+counter: UINT0
+name: "libudev"
+version: UINT0

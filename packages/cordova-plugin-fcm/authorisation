@@ -1,0 +1,4 @@
+authorised: ["dannywillems"]
+counter: UINT0
+name: "cordova-plugin-fcm"
+version: UINT0

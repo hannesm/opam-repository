@@ -1,0 +1,4 @@
+authorised: ["mirage"]
+counter: UINT0
+name: "mirage-xen-minios"
+version: UINT0

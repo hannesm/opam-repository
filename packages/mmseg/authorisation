@@ -1,0 +1,4 @@
+authorised: ["kandu"]
+counter: UINT0
+name: "mmseg"
+version: UINT0

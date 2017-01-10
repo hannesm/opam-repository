@@ -1,0 +1,4 @@
+authorised: ["dinosaure"]
+counter: UINT0
+name: "decompress"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["UnixJunkie"]
+counter: UINT0
+name: "conf-zmq"
+version: UINT0

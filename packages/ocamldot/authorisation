@@ -1,0 +1,4 @@
+authorised: ["zoggy"]
+counter: UINT0
+name: "ocamldot"
+version: UINT0

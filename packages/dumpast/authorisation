@@ -1,0 +1,4 @@
+authorised: ["samoht"]
+counter: UINT0
+name: "dumpast"
+version: UINT0

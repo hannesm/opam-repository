@@ -1,0 +1,4 @@
+authorised: ["fdopen"]
+counter: UINT0
+name: "conf-libuv"
+version: UINT0
