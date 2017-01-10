@@ -1,0 +1,4 @@
+
+counter: UINT0
+name: "conf-libffi"
+version: UINT0

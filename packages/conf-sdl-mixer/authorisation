@@ -1,0 +1,4 @@
+
+counter: UINT0
+name: "conf-sdl-mixer"
+version: UINT0

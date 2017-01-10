@@ -1,0 +1,4 @@
+
+counter: UINT0
+name: "opam-devel"
+version: UINT0

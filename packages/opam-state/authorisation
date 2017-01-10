@@ -1,0 +1,4 @@
+
+counter: UINT0
+name: "opam-state"
+version: UINT0
