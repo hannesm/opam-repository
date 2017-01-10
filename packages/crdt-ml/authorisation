@@ -1,0 +1,4 @@
+authorised: ["ergl"]
+counter: UINT0
+name: "crdt-ml"
+version: UINT0

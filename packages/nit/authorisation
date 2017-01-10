@@ -1,0 +1,4 @@
+authorised: ["sawja-admin"]
+counter: UINT0
+name: "nit"
+version: UINT0

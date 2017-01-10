@@ -1,0 +1,4 @@
+authorised: ["nojb"]
+counter: UINT0
+name: "conf-libgsasl"
+version: UINT0

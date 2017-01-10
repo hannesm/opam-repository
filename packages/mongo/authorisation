@@ -1,0 +1,4 @@
+authorised: ["msimon"]
+counter: UINT0
+name: "mongo"
+version: UINT0

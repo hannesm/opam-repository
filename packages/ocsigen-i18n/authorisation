@@ -1,0 +1,4 @@
+authorised: ["sagotch"]
+counter: UINT0
+name: "ocsigen-i18n"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["struktured"]
+counter: UINT0
+name: "riakc_ppx"
+version: UINT0

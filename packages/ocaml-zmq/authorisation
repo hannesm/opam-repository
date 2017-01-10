@@ -1,0 +1,4 @@
+authorised: ["videte47"]
+counter: UINT0
+name: "ocaml-zmq"
+version: UINT0

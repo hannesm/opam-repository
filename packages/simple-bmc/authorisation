@@ -1,0 +1,4 @@
+authorised: ["pondering"]
+counter: UINT0
+name: "simple-bmc"
+version: UINT0

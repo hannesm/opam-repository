@@ -1,0 +1,4 @@
+authorised: ["grayswandyr"]
+counter: UINT0
+name: "electrumAnalyzer"
+version: UINT0

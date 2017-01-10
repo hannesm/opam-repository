@@ -1,0 +1,4 @@
+authorised: ["kkirstein"]
+counter: UINT0
+name: "conf-lapack"
+version: UINT0

@@ -1,0 +1,4 @@
+authorised: ["mandel"]
+counter: UINT0
+name: "rml"
+version: UINT0

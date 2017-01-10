@@ -1,0 +1,4 @@
+authorised: ["tobiasBora"]
+counter: UINT0
+name: "gettext"
+version: UINT0
