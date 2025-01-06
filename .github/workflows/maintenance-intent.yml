@@ -24,10 +24,9 @@ jobs:
             echo "here2 $bn"
             if [ $bn = "opam" ]; then
               echo "here3 $bn"
-              grep "^x-maintenance-intent: " ${file} > /dev/null;
-              maint_int_present=$?
+              maint_int_present=$(grep -c "^x-maintenance-intent: " ${file} || echo 0)
               echo "here4 $maint_int_present"
-              if [ $maint_int_present -eq 1 ]; then
+              if [ $maint_int_present -neq 0 ]; then
                 echo "here5 $maint_int_present"
                 echo "- $file" >> maint-int.md
               fi;
