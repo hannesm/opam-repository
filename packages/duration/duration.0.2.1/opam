@@ -30,5 +30,4 @@ url {
     "sha512=0de9e15c7d6188872ddd9994f08616c4a1822e4ac92724efa2c312fbb2fc44cd7cbe4b36bcf66a8451d510c1fc95de481760afbcacb8f83e183262595dcf5f0c"
   ]
 }
-x-commit-hash: "6abe42ebe585a96f79eb91045911b9a73c1db19e"
 x-maintenance-intent: [ "(latest)" ]
