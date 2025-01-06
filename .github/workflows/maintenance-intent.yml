@@ -6,7 +6,7 @@ on:
 jobs:
   changed_files:
     runs-on: ubuntu-latest
-    name: Evaluate changed-files
+    name: Check changed files for x-maintenance-intent field
     steps:
       - uses: actions/checkout@v4
       - name: Get changed files
@@ -19,24 +19,32 @@ jobs:
           ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         run: |
           for file in ${ALL_CHANGED_FILES}; do
+            echo "here1 $file"
             bn=$(basename ${file})
+            echo "here2 $bn"
             if [ $bn = "opam" ]; then
+              echo "here3 $bn"
               grep "^x-maintenance-intent: " ${file} > /dev/null;
               maint_int_present=$?
+              echo "here4 $maint_int_present"
               if [ $maint_int_present -eq 1 ]; then
+                echo "here5 $maint_int_present"
                 echo "- $file" >> maint-int.md
               fi;
             fi;
           done;
+          echo "here6"
           if [ -f maint-int.md ]; then
+            echo "here7"
             echo "modified=true" >> $GITHUB_OUTPUT
             echo "The following opam files lack the x-maintenance-intent field:" > maint-int2.md
             echo "" >> maint-int2.md
             cat maint-int.md >> maint-int2.md
             echo "" >> maint-int2.md
-            echo "Please look at https://github.com/ocaml/opam-repository/blob/master/governance/policies/archiving.md#specification-of-the-x--fields-used-in-the-archiving-process for further information." >> int-maint2.md
+            echo "Please look at https://github.com/ocaml/opam-repository/blob/master/governance/policies/archiving.md#specification-of-the-x--fields-used-in-the-archiving-process for further information." >> maint-int2.md
             mv maint-int2.md maint-int.md
           else
+            echo "here8"
             echo "modified=false" >> $GITHUB_OUTPUT
           fi
 
