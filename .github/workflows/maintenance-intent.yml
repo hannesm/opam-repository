@@ -26,7 +26,7 @@ jobs:
               echo "here3 $bn"
               maint_int_present=$(grep -c "^x-maintenance-intent: " ${file} || echo 0)
               echo "here4 $maint_int_present"
-              if [ $maint_int_present -neq 0 ]; then
+              if [ $maint_int_present -eq 0 ]; then
                 echo "here5 $maint_int_present"
                 echo "- $file" >> maint-int.md
               fi;
