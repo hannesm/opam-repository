@@ -5,12 +5,12 @@ signed: [
     targets
     [
       [
-        [size 0x5A423E]
+        [size 0x47FD96]
         [filename "keys/m20251009"]
         [
           digest
           [
-            "sha256=1e149af464dcaaf2fd19cce921c7b07d9a10f4095cca4b928c606ea19fac6cd2"
+            "sha256=c93128566168dc824906737bf7094e51db2b6423e551e31eb695188dd1496f77"
           ]
         ]
       ]
@@ -28,13 +28,13 @@ signed: [
     ]
   ]
   [epoch 0x0]
-  [created "2025-10-24T11:37:35Z"]
-  [counter 0x3]
+  [created "2025-10-24T11:41:02Z"]
+  [counter 0x4]
 ]
 signatures: [
   [
     s20251009
-    "2025-10-24T11:37:35Z"
-    "ed25519=VlHcc5iu69AyixCRh56sU8JVw41sdiGI5sYdhjRBS8Un34r0prgMP+zLwH07HR1nQOhfv+zXIyUP9lbnAK6yAQ=="
+    "2025-10-24T11:41:02Z"
+    "ed25519=iSWi1P5s7IO7pOrkkWvWq1mus8gvrh9Z9BiqrvTU0iqi/GhtvReLU68/3HBhTOXtzZ5qsICoK1ABQVlilwX8AA=="
   ]
 ]
