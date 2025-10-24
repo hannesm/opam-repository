@@ -10,7 +10,7 @@ signed: [
         [
           digest
           [
-            "sha256=9cfe32bfd010dba3aff3eb62a683dba284d8127c5ae0a605c37d308ac55ee439"
+            "sha256=ef9dea1e9d8e621a9b13ab540e383d3f79bb9e3c38c6673590d785bd48569f22"
           ]
         ]
       ]
@@ -28,13 +28,13 @@ signed: [
     ]
   ]
   [epoch 0x0]
-  [created "2025-10-24T11:04:51Z"]
-  [counter 0x1]
+  [created "2025-10-24T11:07:24Z"]
+  [counter 0x2]
 ]
 signatures: [
   [
     t20251009
-    "2025-10-24T11:04:56Z"
-    "ed25519=xadobXUNpqy9WY356EgpxUtcDWZ3SenPbGFGLJIvbYpMMyM4XEkxrvfF2ZMTeCgqyyjddshrViJukjJjT6/+DQ=="
+    "2025-10-24T11:07:24Z"
+    "ed25519=EBtkwr8gY1pzROukOWIKT4vPnxh98uj6WLAq57V5UdRmxMfLQld4Z7V0ojAqLfVgCNpHf7rLlnXL/pMDM/8GAg=="
   ]
 ]
