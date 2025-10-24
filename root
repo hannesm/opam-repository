@@ -1,0 +1,57 @@
+signed: [
+  [version 1]
+  [valid (0 [root20251009])]
+  [typ root]
+  [
+    roles
+    [
+      [
+        timestamp
+        [
+          t20251009
+          "sha256=31ad40b8e14b72ab89dd015ba9536fa459bbf062c7950f5798c6a0757efec900"
+          0x0
+        ]
+      ]
+      [
+        snapshot
+        [
+          s20251009
+          "sha256=1e6654d30f84e478af092ee5e470683d76d036bef3a6eaf9efd909b96ec11a81"
+          0x0
+        ]
+      ]
+      [
+        maintainer
+        [
+          m20251009
+          "sha256=4e9d6ac0699a5c7bd42ae2d8d8432901ec459d754be321ea034e732d2b7ef219"
+          0x0
+        ]
+      ]
+    ]
+  ]
+  [name "root"]
+  [
+    keys
+    [
+      [
+        root20251009
+        "2025-10-24T11:03:38Z"
+        "ed25519=BZu2QoW3rdICzfBfAi/6BSA44Vpn/a6ijg9jmazmBO4="
+      ]
+    ]
+  ]
+  [keydir "keys"]
+  [epoch 0x0]
+  [datadir "packages"]
+  [created "2025-10-24T11:03:37Z"]
+  [counter 0x1]
+]
+signatures: [
+  [
+    root20251009
+    "2025-10-24T11:04:06Z"
+    "ed25519=M6WwsPc05eJQ99qMCOouklHb1rnYfqWRhJuaFESv2fsLbDjQtZERRRd/1Q0iNWsShrorWmZkcSvkPjkL9/1bBg=="
+  ]
+]

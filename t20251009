@@ -1,0 +1,40 @@
+signed: [
+  [version 0]
+  [typ timestamp]
+  [
+    targets
+    [
+      [
+        [size 0x2C5]
+        [filename "s20251009"]
+        [
+          digest
+          [
+            "sha256=9cfe32bfd010dba3aff3eb62a683dba284d8127c5ae0a605c37d308ac55ee439"
+          ]
+        ]
+      ]
+    ]
+  ]
+  [name "t20251009"]
+  [
+    keys
+    [
+      [
+        t20251009
+        "2025-10-09T10:36:42Z"
+        "ed25519=S1NiyI+Z2yU0qy+UtJhuZiycnRxl6RmdnrOIt5fmhVg="
+      ]
+    ]
+  ]
+  [epoch 0x0]
+  [created "2025-10-24T11:04:51Z"]
+  [counter 0x1]
+]
+signatures: [
+  [
+    t20251009
+    "2025-10-24T11:04:56Z"
+    "ed25519=xadobXUNpqy9WY356EgpxUtcDWZ3SenPbGFGLJIvbYpMMyM4XEkxrvfF2ZMTeCgqyyjddshrViJukjJjT6/+DQ=="
+  ]
+]

@@ -1,0 +1,40 @@
+signed: [
+  [version 0]
+  [typ snapshot]
+  [
+    targets
+    [
+      [
+        [size 0x81D388]
+        [filename "keys/m20251009"]
+        [
+          digest
+          [
+            "sha256=92d04ec521b09b28003c88e6b5ae7ae92ddcd238b4be2926c77691ea74f765d2"
+          ]
+        ]
+      ]
+    ]
+  ]
+  [name "s20251009"]
+  [
+    keys
+    [
+      [
+        s20251009
+        "2025-10-09T10:36:03Z"
+        "ed25519=FaFdQ77levo3+HDH5tyZeSp+b3x6lCWm56gNOBOsls0="
+      ]
+    ]
+  ]
+  [epoch 0x0]
+  [created "2025-10-24T11:04:39Z"]
+  [counter 0x1]
+]
+signatures: [
+  [
+    s20251009
+    "2025-10-24T11:04:44Z"
+    "ed25519=mWN/GJ6eLOAUTXeQUTn2FVlKO8hErtDCfwxETT8qrVUwxg+jxLq4YIqRB3geIVA0XBKjSCQX0P71eEn6GNR8BA=="
+  ]
+]
